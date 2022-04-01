@@ -48,7 +48,7 @@ Blazor Progress buttons can be customized in multiple ways. You can choose from 
 [Knowledge Base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-split-buttons-github-samples)
 
 ### About Syncfusion Blazor Components
-The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Progress Button, we provide popular Blazor Components such as DataGrid, Charts, Scheduler, Diagram, Word Processor, and more.
+The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Progress Button, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid?utm_source=nuget&utm_medium=listing&utm_campaign=blazor-split-buttons-nuget), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=nuget&utm_medium=listing&utm_campaign=blazor-split-buttons-nuget), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=nuget&utm_medium=listing&utm_campaign=blazor-split-buttons-nuget), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=nuget&utm_medium=listing&utm_campaign=blazor-split-buttons-nuget), [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=nuget&utm_medium=listing&utm_campaign=blazor-split-buttons-nuget), and more.
 
 ### About Syncfusion
 
