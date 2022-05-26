@@ -37,7 +37,7 @@ Blazor Progress buttons can be customized in multiple ways. You can choose from 
 
 [Documentation](https://blazor.syncfusion.com/documentation/progress-button/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-progress-button-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/buttons/progress-button?utm_source=github&utm_medium=listing&utm_campaign=blazor-progress-button-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/how-to-add-syncfusion-blazor-progress-button-to-blazor-webassembly-app.git?utm_source=github&utm_medium=listing&utm_campaign=blazor-progress-button-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-progress-button-github-samples)
 
