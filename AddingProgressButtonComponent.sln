@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingProgressButtonComponent.Server", "Server\AddingProgressButtonComponent.Server.csproj", "{DE183807-581D-4B1B-884E-7C93683030E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingProgressButtonComponent.Client", "Client\AddingProgressButtonComponent.Client.csproj", "{47D03035-CB4B-4792-B3C3-76C9924D3C34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddingProgressButtonComponent.Shared", "Shared\AddingProgressButtonComponent.Shared.csproj", "{FC6C23F9-7B8A-4A71-957C-8189254DBBAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE183807-581D-4B1B-884E-7C93683030E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE183807-581D-4B1B-884E-7C93683030E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE183807-581D-4B1B-884E-7C93683030E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE183807-581D-4B1B-884E-7C93683030E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47D03035-CB4B-4792-B3C3-76C9924D3C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D03035-CB4B-4792-B3C3-76C9924D3C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D03035-CB4B-4792-B3C3-76C9924D3C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D03035-CB4B-4792-B3C3-76C9924D3C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6C23F9-7B8A-4A71-957C-8189254DBBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6C23F9-7B8A-4A71-957C-8189254DBBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6C23F9-7B8A-4A71-957C-8189254DBBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6C23F9-7B8A-4A71-957C-8189254DBBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {912C9FB7-33CD-4DA9-82D6-F142593F3133}
+	EndGlobalSection
+EndGlobal
